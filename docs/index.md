@@ -50,12 +50,6 @@ HCL DART assists organizations in determining what to do with their custom Domin
 * Invest: If an application is heavily used and has medium complexity, HCL DART recommends that the application be replatformed to HCL VoltMX. HCL DART will include a set of Developer Tools to help “jumpstart” the transition into HCL VoltMX. HCL DART will enable these applications for use with the Domino REST APIs and provide a set of design artifacts to assist a non-Domino developer in understanding what is happening, allowing them to focus on the transition to the new platform instead of learning how to design an application in Domino.
 
 
-<div style="visibility:hidden">
-## Intro
-
-{% include youtube.html id="zBPAdHMGzzo" %}
-</div>
-
 ## Documentation
 Learn how to use HCL DART with these topics:
 
@@ -64,11 +58,10 @@ Learn how to use HCL DART with these topics:
 * [Frequently Asked Questions](faqs.md)
 * [Limitations](limitations.md)
 
-## Compatibilty
 
+## Compatibilty
 see [System Requirements](requirements.md)
 
 
 ## Changes
-
 Be sure to review the changes that are included in this release by opening the [CHANGE LOG](changelog.md)

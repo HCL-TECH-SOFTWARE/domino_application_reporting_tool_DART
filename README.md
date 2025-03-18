@@ -2,9 +2,7 @@
 
 
 ## Purpose
-The purpose of this utility is to provide fast and accurate reports on the custom build HCL Domino applicaitons that are in a client's environment.
-
-The DLAU automates the process by aggregating all the information that is needed to accurately determine the Authorized User counts in a fraction of the time.
+The purpose of this utility is to provide fast and accurate reports on the custom built HCL Domino applications that are in a client's environment.
 
 ___
 ## Documentation
