@@ -10,6 +10,7 @@ has_children: true
 [View on GitHub](https://github.com/HCL-TECH-SOFTWARE/dominio_application_reporting_tool_DART/){: .btn }
 
 <h1> HCL Domino Application Reporting Tool (DART)</h1>
+<h1>BETA DOCUMENTATION ONLY</h1>
 
 ## Purpose
 Here’s a typical scenario: Your organization has HCL Domino, and it “just runs”. Some of your Business Critical apps are running on HCL Domino. But you have a tonne of questions about the Domino environment and the custom Domino apps:

@@ -1,4 +1,5 @@
 <h1><img src="docs/assets/images/png/appicon.png" alt="HCL Domino Applicaiton Reporting Tool" width="75px;">HCL Domino Application Reporting Tool (DART)</h1>
+<h1>BETA DOCUMENTATION ONLY</h1>
 
 
 ## Purpose
