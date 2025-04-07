@@ -5,8 +5,8 @@ title: HCL Domino Applicaiton Reporting Tool
 description: The HCL Domino Applicaiton Reporting Tool
 version: 1.0
 
-git_url: "https://github.com/HCL-TECH-SOFTWARE/dominio_application_reporting_tool_DART"
-baseurl: "/dominio_application_reporting_tool_DART"
+git_url: "https://github.com/HCL-TECH-SOFTWARE/domino_application_reporting_tool_DART"
+baseurl: "/domino_application_reporting_tool_DART"
 permalink: pretty
 exclude:
   [
